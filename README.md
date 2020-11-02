@@ -1,4 +1,4 @@
-# vim-keybindings-tips
+# VIM-editor-tips
 
 A simple document that shares some of the features of the VIM editor that we use in day-to-day life. Also, some fancy features.
 
